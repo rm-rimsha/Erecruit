@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "spring.view.suffix",
+      "type": "java.lang.String",
+      "description": "Description for spring.view.suffix."
+    },
+    {
+      "name": "spring.view.prefix",
+      "type": "java.lang.String",
+      "description": "Description for spring.view.prefix."
+    }
+  ] }

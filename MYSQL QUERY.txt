@@ -1,0 +1,5 @@
+mysql> create database applicant_info;
+mysql> create user 'admin'@'%' identified by 'ThePassword';
+mysql> grant all on applicant_info.* to 'admin'@'%';
+mysql> create table applicant_info (id INT(11) NOT NULL AUTO_INCREMENT,name VARCHAR(255), age INT(11), email VARCHAR(255),
+experience INT(11), loyalty INT(6), traits LONGBLOB);

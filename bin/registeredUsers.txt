@@ -1,0 +1,2 @@
+amazon;silicon valley, USA;19675676;amazonUser;amazon.123
+Daraz;f-8, islamabad;19675676;darazUser;daraz.123
